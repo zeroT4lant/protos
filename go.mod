@@ -1,3 +1,3 @@
-module github.com/GolangLessons/protos
+module protos
 
 go 1.22
